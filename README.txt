@@ -24,5 +24,13 @@ You can install them using pip:
 pip install pandas numpy scikit-learn matplotlib seaborn
 
 
-Collaborators:
-Orcun_ysr, ChestnutRisenKamehameha
+## Collaborators
+
+- Orcun_ysr  
+  Responsible for machine learning model architecture and overall system design.
+
+- ChestnutRisenKamehameha  
+  Responsible for data cleaning, preprocessing, and feature preparation.
+
+- leykuph  
+  Responsible for system analysis and evaluation of model results.
